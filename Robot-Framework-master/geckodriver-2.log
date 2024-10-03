@@ -1,0 +1,25 @@
+1725627232445	geckodriver	INFO	Listening on 127.0.0.1:51156
+1725627232466	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/Use ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hf/ky9_bsts0h51fhdnzbtd5k840000gn/T/rust_mozprofileeUHFlp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725627233229	Marionette	INFO	Marionette enabled
+2024-09-06 14:53:53.785 plugin-container[23790:298206] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-09-06 14:53:53.790 plugin-container[23790:298206] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-09-06 14:53:53.868 plugin-container[23790:298206] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-09-06 14:53:53.873 plugin-container[23790:298206] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-09-06 14:53:53.874 plugin-container[23790:298222] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-09-06 14:53:53.874 plugin-container[23790:298222] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725627233978	Marionette	INFO	Listening on port 51162
+WebDriver BiDi listening on ws://127.0.0.1:51157
+Read port: 51162
+1725627234536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2024-09-06 12:53:56.890 plugin-container[23817:298490] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-09-06 12:53:56.891 plugin-container[23817:298490] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-09-06 12:53:56.899 plugin-container[23817:298490] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-09-06 12:53:56.899 plugin-container[23817:298490] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2024-09-06 12:53:56.901 plugin-container[23817:298505] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2024-09-06 12:53:56.901 plugin-container[23817:298505] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:51157/devtools/browser/2af7c7dc-517d-4c0c-9158-3d47433ac5c3
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.sys.mjs, line 19: TypeError: aWindow is null
+1725627248543	Marionette	INFO	Stopped listening on port 51162
